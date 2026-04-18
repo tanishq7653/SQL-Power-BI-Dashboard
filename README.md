@@ -40,3 +40,5 @@ This project was created to strengthen practical skills in SQL, dashboard creati
 Tanishq Rajput
 
 ## ⭐ If you like this project, give it a star!
+Project Overview
+![Alt text](https://github.com/tanishq7653/SQL-Power-BI-Dashboard/blob/main/Data%20Analytics%20Project%20-%20SQL%20%2B%20Power%20BI.png)
